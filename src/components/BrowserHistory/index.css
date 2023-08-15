@@ -1,0 +1,32 @@
+.each-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px;
+}
+.del-icon {
+  height: 20px;
+}
+.each-li {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.time {
+  padding: 10px;
+}
+.logo {
+  padding: 10px;
+  height: 50px;
+  width: 50px;
+}
+.url {
+  padding: 10px;
+}
+.title {
+  padding: 10px;
+}
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+}
